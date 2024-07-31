@@ -66,12 +66,7 @@ table td{
     color: #ed8f45;
 }
 
-table td button {
-    background-color: #ed8f45;
-    color: #fbf0fbf4;
-    border: none;
-    margin-bottom: 10%;
-    border-radius: 5px;
+table a{
+    color: black;
     cursor: pointer;
 }
-
